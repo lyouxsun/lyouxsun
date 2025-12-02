@@ -1,7 +1,8 @@
 ### Lee YoungSun 🐯
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyouxsun&show_icons=true&theme=radical&hide_border=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyouxsun&show_icons=true&theme=radical&hide_border=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyouxsun&layout=compact)](https://github.com/lyouxsun) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedrkr323&hide_border=true)](https://solved.ac/leedrkr323/)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lyouxsun&utm_content=farm">
 <img
